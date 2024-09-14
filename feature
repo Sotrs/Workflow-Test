@@ -1,1 +1,1 @@
-Commit 3 for feature
+conflict1
